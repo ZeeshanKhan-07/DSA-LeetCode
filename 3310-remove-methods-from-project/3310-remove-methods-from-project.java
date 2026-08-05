@@ -1,21 +1,11 @@
 class Solution {
-    public void dfs(int curr, List<List<Integer>> adj, int[] inDegree, boolean[] suspicious) {
-        suspicious[curr] = true;
-        for (int ngbr : adj.get(curr)) {
-            inDegree[ngbr]--;
-            if (!suspicious[ngbr]) {
-                dfs(ngbr, adj, inDegree, suspicious);
-            }
-        }
-    }
-
     public List<Integer> remainingMethods(int n, int k, int[][] invocations) {
         List<List<Integer>> adj = new ArrayList<>();
         for (int i = 0; i < n; i++) {
             adj.add(new ArrayList<>());
         }
-        int[] inDegree = new int[n];
-        boolean[] suspicious = new boolean[n];
+        int[] inDegree = new int[n]; //O(V)
+        boolean[] suspicious = new boolean[n]; //O(V)
 
         for (int[] edge : invocations) {
             int u = edge[0];
@@ -24,8 +14,22 @@ class Solution {
             inDegree[v]++;
         }
 
-        //DFS
-        dfs(k, adj, inDegree, suspicious);
+        //BFS
+        Queue<Integer> que = new LinkedList<>();
+        que.offer(k);
+        suspicious[k] = true;
+
+        while (!que.isEmpty()) {
+            int curr = que.poll();
+
+            for (int ngbr : adj.get(curr)) {
+                inDegree[ngbr]--;
+                if (!suspicious[ngbr]) {
+                    que.offer(ngbr);
+                    suspicious[ngbr] = true;
+                }
+            }
+        }
 
         List<Integer> result = new ArrayList<>();
         boolean cannotRemove = false;
@@ -35,6 +39,7 @@ class Solution {
                 cannotRemove = true;
                 break;
             }
+
             if (!suspicious[i]) {
                 result.add(i);
             }
