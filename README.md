@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1406-stone-game-iii](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1872-stone-game-viii](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/1872-stone-game-viii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Matrix
 |  |
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/1927-sum-game) |
 ## Minimax
 |  |
@@ -205,12 +210,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/1872-stone-game-viii) |
 ## Depth-First Search
 |  |
 | ------- |
