@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0486-predict-the-winner](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/0877-stone-game) |
