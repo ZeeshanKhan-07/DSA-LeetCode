@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [1927-sum-game](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
