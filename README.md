@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0142-linked-list-cycle-ii](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/0328-odd-even-linked-list) |
@@ -319,10 +320,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
@@ -340,4 +343,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/0382-linked-list-random-node) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
