@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0486-predict-the-winner](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0142-linked-list-cycle-ii](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
