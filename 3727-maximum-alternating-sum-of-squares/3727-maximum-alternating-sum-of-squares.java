@@ -1,5 +1,6 @@
 class Solution {
     public long maxAlternatingSum(int[] nums) {
+        //a2 - b2 + c2 - d2 + e2 is same as a2 + c2 + e2 (should be maxm)- (b2 + d2 (should be minm))
         for(int i = 0; i < nums.length; i++) {
             nums[i] = nums[i] * nums[i];
         }
