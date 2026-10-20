@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Sorting
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3886-sum-of-sortable-integers](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Math
 |  |
 | ------- |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
 | ------- |
