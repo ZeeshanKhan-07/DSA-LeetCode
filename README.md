@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ZeeshanKhan-07/DSA-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
