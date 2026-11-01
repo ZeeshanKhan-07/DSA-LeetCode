@@ -7,11 +7,11 @@ class Solution {
             }
         }
 
-        int operations = 0;
-        for(int i = 0; i < nums.length; i++) {
-            operations += nums[i] - min;
+        int sum = 0;
+        for(int num : nums) {
+            sum += num;
         }
 
-        return operations;
+        return sum - nums.length * min; //from formula
     }
 }
